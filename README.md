@@ -1,4 +1,4 @@
-<h1>Hi, I'm Camellia! <br/><a href="https://github.com/joshmadakor1">Applications Developer</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a></h1>
+<h1>Hi, I'm Camellia! <br/><a href="https://github.com/joshmadakor1">Applications Developer</a> and <a href="https://www.linkedin.com/in/camellia-fleming/">Programmer</a></h1>
 
 <h2>👩🏾‍💻 Software Development Projects:</h2>
 
